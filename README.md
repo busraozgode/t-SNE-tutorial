@@ -27,6 +27,7 @@ from scipy.spatial.distance import squareform, pdist
 
 # We import sklearn.
 #deneme
+#pull request changes
 import sklearn
 from sklearn.manifold import TSNE
 from sklearn.datasets import load_digits
