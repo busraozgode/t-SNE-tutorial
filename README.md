@@ -26,6 +26,7 @@ from numpy.linalg import norm
 from scipy.spatial.distance import squareform, pdist
 
 # We import sklearn.
+#deneme
 import sklearn
 from sklearn.manifold import TSNE
 from sklearn.datasets import load_digits
